@@ -5,10 +5,10 @@
 <html>
 <body>
 
-<h1> how are you sssss
-	
+<h1> hello this is index page of project
 	</h1>
-	<h2> hello mustafiz </h2>
+	<h2> start the project with jenkins and maven   </h2>
+	<h1>in love with cs and it manuu</h1>
 
 </body>
 </html>
